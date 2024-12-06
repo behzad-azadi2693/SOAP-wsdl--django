@@ -1,0 +1,41 @@
+# packages in environment at /home/azadi/miniconda3/envs/spyenv:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+_openmp_mutex             5.1                       1_gnu  
+asgiref                   3.8.1                    pypi_0    pypi
+attrs                     24.2.0                   pypi_0    pypi
+bzip2                     1.0.8                h5eee18b_6  
+ca-certificates           2024.11.26           h06a4308_0  
+django                    5.1.4                    pypi_0    pypi
+djangorestframework       3.15.2                   pypi_0    pypi
+drf-spectacular           0.28.0                   pypi_0    pypi
+inflection                0.5.1                    pypi_0    pypi
+jsonschema                4.23.0                   pypi_0    pypi
+jsonschema-specifications 2024.10.1                pypi_0    pypi
+ld_impl_linux-64          2.40                 h12ee557_0  
+libffi                    3.4.4                h6a678d5_1  
+libgcc-ng                 11.2.0               h1234567_1  
+libgomp                   11.2.0               h1234567_1  
+libstdcxx-ng              11.2.0               h1234567_1  
+libuuid                   1.41.5               h5eee18b_0  
+lxml                      5.3.0                    pypi_0    pypi
+ncurses                   6.4                  h6a678d5_0  
+openssl                   3.0.15               h5eee18b_0  
+pip                       24.2            py310h06a4308_0  
+python                    3.10.15              he870216_1  
+python-decouple           3.8                      pypi_0    pypi
+readline                  8.2                  h5eee18b_0  
+referencing               0.35.1                   pypi_0    pypi
+rpds-py                   0.22.3                   pypi_0    pypi
+setuptools                75.1.0          py310h06a4308_0  
+spyne                     2.14.0                   pypi_0    pypi
+sqlite                    3.45.3               h5eee18b_0  
+sqlparse                  0.5.2                    pypi_0    pypi
+tk                        8.6.14               h39e8969_0  
+typing-extensions         4.12.2                   pypi_0    pypi
+tzdata                    2024b                h04d1e81_0  
+uritemplate               4.1.1                    pypi_0    pypi
+wheel                     0.44.0          py310h06a4308_0  
+xz                        5.4.6                h5eee18b_1  
+zlib                      1.2.13               h5eee18b_1  
